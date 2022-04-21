@@ -1,4 +1,4 @@
-# CS447 Project 1: Toy Keyboard
+# CS447 Project 1: Toy Keyboard © 2016-2020 Jarrett Billingsley
 
 This project implements a very simple keyboard. With it, you
 will be able to:
