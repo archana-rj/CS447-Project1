@@ -1,4 +1,4 @@
-# CS447 Project 1: Toy Keyboard © 2016-2020 Jarrett Billingsley
+# CS447 Project 1: Toy Keyboard 
 
 This project implements a very simple keyboard. With it, you
 will be able to:
@@ -49,3 +49,5 @@ like a piano.
   ### Recording the times
   - Use a syscall to measure the time at which each key is pressed. From that, calculate how long each note
     will be.
+    
+© 2016-2020 Jarrett Billingsley   
