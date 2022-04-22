@@ -3,9 +3,9 @@
 This project implements a very simple keyboard. With it, you
 will be able to:
 
-a) play notes using your computer’s keyboard
-b) play a demo song
-c) record your own song and play it back
+a) play notes using your computer’s keyboard <br/>
+b) play a demo song <br/>
+c) record your own song and play it back <br/>
 
 ## 1. The program menu
 
